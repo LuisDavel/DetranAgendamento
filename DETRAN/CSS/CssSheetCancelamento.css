@@ -1,0 +1,284 @@
+/* Diretos Resevados á Jailton Junior Serafim de Oliveira, Flávio Leandro Pirola, Luis Davel Biagetti,João Paulo Preis e Gustavo Borba*/
+body{
+    justify-content: center;
+    align-content: center;
+    display: inline;
+}
+
+#Resolução{
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-content: center;
+}
+
+#Navegador{
+    display: inline;
+    overflow: hidden;
+    background-image: linear-gradient(to right, #0d172c , #15264a, #213c75);
+    box-shadow: 5px 5px 5px rgba(0,0,0.2,0.2);
+    position: absolute;
+    top: 0%;    
+    width: 100%;
+}
+
+
+#Navegador a{
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    position: relative;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 31.5px 24px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#Navegador a:hover{
+    color: rgb(126, 125, 125);
+}
+ 
+#Rodapé{
+    position: relative;
+    float: bottom;
+    width: 100%;
+    margin-left: 0px;
+    height: 80px;
+    background-color:#114e9d;
+    background-image: linear-gradient(to right, #0d172c , #15264a, #213c75);
+    top: 500px;
+}
+
+#Rodapé p{
+    padding-top: 35px;
+    margin: 0px;
+    text-align: center;
+    color: #e3e3e3;
+}
+
+#cancelamento{
+    margin-top: 10%;
+    margin-bottom: -10.9%;
+    margin-left: 42%;
+    width: 15%;
+    border: #fff solid 2px;
+    border-radius: 5%;
+    border: rgb(0, 24, 8) solid 0.5px;
+    box-shadow: 5px 5px 5px rgba(0,0,0.2,0.2);
+}
+
+#btn{
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+    font-size: 0.9rem;
+    color: #fff;
+    height: 50%;
+    width: 97%;
+    margin-left: 1%;
+    background: rgb(6, 146, 189);
+    background-image: linear-gradient(10deg,#15264a,#213c75);
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+label{
+    border: 0px;
+    color: brown;
+
+}
+
+.paragrafo{
+    margin-top:1px;
+    border-bottom: 2px solid #7fc0e4;
+
+}
+
+@media(max-width: 770px){
+    body{
+        justify-content: center;
+        align-content: center;
+        display: inline;
+    }
+#Resolução{
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-content: center;
+}
+
+#Navegador{
+    display: inline;
+    overflow: hidden;
+    background-image: linear-gradient(to right, #0d172c , #15264a, #213c75);
+    box-shadow: 5px 5px 5px rgba(0,0,0.2,0.2);
+    position: absolute;
+    top: 0%;    
+    width: 100%;
+}
+
+
+#Navegador a{
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    position: relative;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 31.5px 24px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#Navegador a:hover{
+    color: rgb(126, 125, 125);
+}
+ 
+#Rodapé{
+    position: relative;
+    float: bottom;
+    width: 100%;
+    margin-left: 0px;
+    height: 80px;
+    background-color:#114e9d;
+    background-image: linear-gradient(to right, #0d172c , #15264a, #213c75);
+    top: 500px;
+}
+
+#Rodapé p{
+    padding-top: 35px;
+    margin: 0px;
+    text-align: center;
+    color: #e3e3e3;
+}
+
+#cancelamento{
+    margin-top: 15%;
+    margin-bottom: -10.9%;
+    margin-left: 32%;
+    width: 45%;
+    border: #fff solid 2px;
+    border-radius: 5%;
+    border: rgb(0, 24, 8) solid 0.5px;
+    box-shadow: 5px 5px 5px rgba(0,0,0.2,0.2);
+}
+
+#btn{
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+    font-size: 0.9rem;
+    color: #fff;
+    height: 50%;
+    width: 97%;
+    margin-left: 1%;
+    background: #084B23;
+    background-image: linear-gradient(10deg,#15264a,#213c75);
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+label{
+    border: 0px;
+    color: brown;
+
+}
+
+.paragrafo{
+    margin-top:1px;
+    border-bottom: 2px solid #7fc0e4;
+
+}
+
+}
+
+@media(max-width: 425px){
+    body{
+        justify-content: center;
+        align-content: center;
+        display: inline;
+    }
+#Resolução{
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-content: center;
+}
+
+#Navegador{
+    display: inline;
+    overflow: hidden;
+    background-image: linear-gradient(to right, #0d172c , #15264a, #213c75);
+    box-shadow: 5px 5px 5px rgba(0,0,0.2,0.2);
+    position: absolute;
+    top: 0%;    
+    width: 100%;
+}
+
+
+#Navegador a{
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    position: relative;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 31.5px 24px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#Navegador a:hover{
+    color: rgb(126, 125, 125);
+}
+ 
+#Rodapé{
+    position: relative;
+    float: bottom;
+    width: 100%;
+    margin-left: 0px;
+    height: 80px;
+    background-color:#114e9d;
+    background-image: linear-gradient(to right, #0d172c , #15264a, #213c75);
+    top: 500px;
+}
+
+#Rodapé p{
+    padding-top: 35px;
+    margin: 0px;
+    text-align: center;
+    color: #e3e3e3;
+}
+
+#cancelamento{
+    margin-top: 22%;
+    margin-bottom: -10.9%;
+    margin-left: 19%;
+    width: 55%;
+    border: #fff solid 2px;
+    border-radius: 5%;
+    border: rgb(0, 24, 8) solid 0.5px;
+    box-shadow: 5px 5px 5px rgba(0,0,0.2,0.2);
+}
+
+#btn{
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+    font-size: 0.9rem;
+    color: #fff;
+    height: 50%;
+    width: 97%;
+    margin-left: 1%;
+    background: rgb(73, 123, 199);
+    background-image: linear-gradient(10deg,#15264a,#213c75);
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+label{
+    border: 0px;
+    color: brown;
+
+}
+
+.paragrafo{
+    margin-top:1px;
+    border-bottom: 2px solid #7fc0e4;
+
+}
+
+}
+/* Diretos Resevados á Jailton Junior Serafim de Oliveira, Flávio Leandro Pirola, Luis Davel Biagetti,João Paulo Preis e Gustavo Borba*/
